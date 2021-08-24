@@ -127,9 +127,9 @@ end)
 
 RegisterNetEvent('maykılınevinde:dog')
 AddEventHandler('maykılınevinde:dog', function()
-    local ryfix = PlayerPedId()
+    local maledizhaha = PlayerPedId()
     
-    SetEntityCoords(ryfix, -813.54, 179.595, 76.7453) 
+    SetEntityCoords(maledizhaha, -813.54, 179.595, 76.7453) 
 end)
 
 Citizen.CreateThread(function()
